@@ -113,4 +113,5 @@ input{
   font-weight: 600;
   padding: 1em;
   font-size: 15px;
+  cursor: pointer;
 }
